@@ -17,3 +17,5 @@ while a < 100
   a += 1
   puts "Variante 2: #{a}"
 end
+
+# Änderung
