@@ -2,8 +2,7 @@ zahlBeginn = 0
 
 loop do
   zahlerhöhen = zahlBeginn += 1
-  puts "Variante 1: #{zahlerhöhen}"
-  break if zahlBeginn >= 100
+  beak if zahlBeginn >= 100
 end
 
 puts "-------------------------------------------
