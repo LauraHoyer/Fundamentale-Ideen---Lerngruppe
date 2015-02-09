@@ -2,7 +2,7 @@ zahlBeginn = 0
 #Änderung eines Kommentars
 loop do
   zahlerhöhen = zahlBeginn += 1
-  puts "variante 0: #{zahlerhöhen}"
+  puts "variante0: #{zahlerhöhen}"
   break if zahlBeginn >= 100
 end
 
