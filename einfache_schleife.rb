@@ -6,7 +6,7 @@ loop do
 end
 
 puts "-------------------------------------------
-andere Schleife, gleiches Ergebis
+andere Schleife, gleiches Ergebis!
 -------------------------------------------"
 
 
